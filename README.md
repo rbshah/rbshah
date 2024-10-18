@@ -18,8 +18,8 @@ I'm currently exploring **Machine Learning, Cloud Computing**, and working with 
 Here are some of my notable projects:
 
 - [**AI Flashcard SaaS**](https://study-stash-3u9p.vercel.app/) - Built a flashcard application using Next.js, Clerk, Firebase, OpenAI, and Stripe. Got 100+ signups with analytics integrated.
-- **AI Customer Support** - Developed a chatbot using Next.js with RAG pipeline, integrated OpenAI, and Pinecone for knowledge base queries.
-- **AI Rate My Professor** - Created an AI-powered assistant to interact with Rate My Professor data, deployed on AWS.
+- [**AI Customer Support**](https://ai-cust-support.vercel.app/) - Developed a chatbot using Next.js with RAG pipeline, integrated OpenAI, and Pinecone for knowledge base queries.
+
 
 ## 🤝 Connect with Me
 
